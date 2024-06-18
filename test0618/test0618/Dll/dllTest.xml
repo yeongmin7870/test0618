@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+dllTest
+</name>
+</assembly>
+<members>
+<member name="T:dllTest.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:dllTest.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:dllTest.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:dllTest.Class1.add(System.Double,System.Double)">
+ <summary>
+  더하기
+ </summary>
+ <param name="a"></param>
+ <param name="b"></param>
+ <returns></returns>
+</member>
+<member name="M:dllTest.Class1.minus(System.Double,System.Double)">
+ <summary>
+  빼기
+ </summary>
+ <param name="a"></param>
+ <param name="b"></param>
+ <returns></returns>
+</member>
+<member name="M:dllTest.Class1.multiply(System.Double,System.Double)">
+ <summary>
+ 곱하기
+ </summary>
+ <param name="a"></param>
+ <param name="b"></param>
+ <returns></returns>
+</member>
+<member name="M:dllTest.Class1.divide(System.Double,System.Double)">
+ <summary>
+ 나누기
+ </summary>
+ <param name="a"></param>
+ <param name="b"></param>
+ <returns></returns>
+</member>
+<member name="M:dllTest.Class1.reset">
+ <summary>
+ 초기화
+ </summary>
+ <returns></returns>
+</member>
+</members>
+</doc>
