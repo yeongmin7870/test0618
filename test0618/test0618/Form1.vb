@@ -3,7 +3,7 @@
 Public Class Form1
 
     Private Sub Button1_Click(sender As Object, e As EventArgs)
-
+        '으아ㅣ아아아
         Dim dlls = New dllTest.Class1()
         Dim test = dlls.add("코딩 어렵다.")
         Dim Message = String.Empty
